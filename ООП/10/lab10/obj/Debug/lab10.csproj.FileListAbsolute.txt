@@ -1,0 +1,14 @@
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\bin\Debug\lab10.exe.config
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\bin\Debug\lab10.exe
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\bin\Debug\lab10.pdb
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\obj\Debug\lab10.exe
+C:\Users\AVDEY\Desktop\2курс\ООП\10\lab10\obj\Debug\lab10.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\bin\Debug\lab10.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\bin\Debug\lab10.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\obj\Debug\lab10.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\10\lab10\obj\Debug\lab10.pdb
