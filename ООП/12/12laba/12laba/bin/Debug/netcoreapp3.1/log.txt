@@ -1,0 +1,684 @@
+﻿Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 21:56:46
+Полный путь: F:\3сем
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 21:58:39
+Полный путь: F:\3сем
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 21:59:46
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:00:09
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:00:09
+Размер в байтах: 1097Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:00:09
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:00:09
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:01:12
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:01:12
+Размер в байтах: 2066Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:01:12
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:01:12
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:07
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:07
+Размер в байтах: 3035Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:07
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:02:07
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:28
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:28
+Размер в байтах: 4004Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:02:28
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:02:28
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:03:00
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:03:00
+Размер в байтах: 4973Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:03:00
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:03:00
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:06:47
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:06:47
+Размер в байтах: 5942Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:06:47
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:06:47
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:18
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:18
+Размер в байтах: 6911Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:18
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:07:18
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:59
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:59
+Размер в байтах: 7880Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:07:59
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:07:59
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:03
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:03
+Размер в байтах: 8849Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:03
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:08:03
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:17
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:17
+Размер в байтах: 9818Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:08:17
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:08:17
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:15:12
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:15:12
+Размер в байтах: 10787Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:15:12
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:15:12
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:29
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:29
+Размер в байтах: 11757Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:29
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:16:29
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:49
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:49
+Размер в байтах: 12727Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:49
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:16:49
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:56
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:56
+Размер в байтах: 13697Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 22:16:56
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 22:16:56
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:19:22
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:19:22
+Размер в байтах: 14667Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:19:22
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:19:22
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:43:28
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:43:28
+Размер в байтах: 15637Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:43:28
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:43:28
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:20
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:20
+Размер в байтах: 16607Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:20
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:44:20
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:33
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:33
+Размер в байтах: 17577Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:44:33
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:44:33
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:48:51
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:48:51
+Размер в байтах: 18547Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:48:51
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:48:51
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:06
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:06
+Размер в байтах: 19517Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:06
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:50:06
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:13
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:13
+Размер в байтах: 20487Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:50:13
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:50:13
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:20
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:20
+Размер в байтах: 21457Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:20
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:52:20
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:57
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:57
+Размер в байтах: 22427Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:52:57
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:52:57
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:54:08
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:54:08
+Размер в байтах: 23397Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:54:08
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:54:08
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:55:06
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:55:06
+Размер в байтах: 24367Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:55:06
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:55:06
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:02
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:02
+Размер в байтах: 25337Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:02
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:56:02
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:22
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:22
+Размер в байтах: 26307Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:56:22
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:56:22
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:57:54
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:57:54
+Размер в байтах: 27277Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:57:54
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:57:54
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:58:34
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:58:34
+Размер в байтах: 28247Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 18.12.2023 23:58:34
+Дата созд: 18.12.2023 21:50:22Дата изменения: 18.12.2023 23:58:34
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:00:55
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:00:55
+Размер в байтах: 29217Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:00:55
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:00:55
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:02:13
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:02:13
+Размер в байтах: 30187Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:02:13
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:02:13
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:00
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:00
+Размер в байтах: 31157Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:00
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:04:00
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:47
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:47
+Размер в байтах: 32127Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:04:47
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:04:47
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:17
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:17
+Размер в байтах: 33097Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:17
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:05:17
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:47
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:47
+Размер в байтах: 34067Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:05:47
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:05:47
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:15
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:15
+Размер в байтах: 35037Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:15
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:06:15
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:47
+Полный путь: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:47
+Размер в байтах: 36007Расширение: .txtИмя: C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+
+
+Имя файла: log.txt
+Путь : C:\Users\Avdey\OneDrive\Рабочий стол\ООП\12\12laba\12laba\bin\Debug\netcoreapp3.1\log.txt
+Дата создания: 19.12.2023 00:06:47
+Дата созд: 18.12.2023 21:50:22Дата изменения: 19.12.2023 00:06:47
+
+
