@@ -1,0 +1,18 @@
+﻿  FileName.cpp
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(14,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(173,1): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(15,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(174,1): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(16,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(175,1): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(17,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(176,1): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(18,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(181,1): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(19,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(182,1): message : см. предыдущее определение "IP_BAD_REQ"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(20,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(183,1): message : см. предыдущее определение "IP_BAD_ROUTE"
+C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\Project1\FileName.cpp(21,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\ipexport.h(184,1): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+  Project1.vcxproj -> C:\Users\Avdey\OneDrive\Рабочий стол\КС\Project1\x64\Debug\Project1.exe
