@@ -1,0 +1,7 @@
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Avdey\OneDrive\Рабочий стол\ООП\lab4\lab4\lab4\obj\Debug\lab4.pdb
